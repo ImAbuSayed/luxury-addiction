@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luxury-addiction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Luxury Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction/) |
+| **Get License** | [Commercial Licensing for Luxury Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Chup chaap is mehfil vich takkda haan straight,
+> Tere ishaareya di karda haan I wait,
+> Naina di chamak kare mainu paralyze,
+> Main haar baitha sab kuch in those eyes.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
